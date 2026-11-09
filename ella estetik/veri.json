@@ -1,0 +1,211 @@
+{
+  "isletme": {
+    "ad": "Ella Estetik Ve Güzellik",
+    "kategori": "Güzellik Salonu",
+    "kategori_en": "Beauty Salon",
+    "slogan": "Güzelliğinize Değer Katın",
+    "kisa_aciklama": "Antalya Konyaaltı'nda CE onaylı diode buz lazer, medikal cilt bakımı, saç simülasyonu, protez tırnak, ipek kirpik ve bölgesel incelme uygulamalarıyla profesyonel güzellik ve bakım hizmeti.",
+    "ozellikler": [
+      "Kadın Girişimci / İşletme Sahibi",
+      "CE Onaylı Orijinal Diode Buz Lazer",
+      "Hijyenik & Modern Salon Ortamı",
+      "Randevulu Kişiye Özel Hizmet"
+    ]
+  },
+  "iletisim": {
+    "telefon": "0543 349 49 80",
+    "telefon_uluslararasi": "+905433494980",
+    "whatsapp": "905433494980",
+    "whatsapp_link": "https://wa.me/905433494980?text=Merhaba%20Ella%20Estetik,%20randevu%20almak%20istiyorum.",
+    "instagram": "ella_estetik",
+    "instagram_url": "https://www.instagram.com/ella_estetik",
+    "web_sitesi": "https://ellaestetik.my.canva.site",
+    "eposta": null,
+    "eposta_durum": "BULUNAMADI (placeholder: info@ellaestetik.com)"
+  },
+  "adres": {
+    "acik_adres": "Gürsu Mahallesi Gazi Mustafa Kemal Bulvarı, 371. Sk. No:4 D:2, 07700 Konyaaltı/Antalya",
+    "ilce": "Konyaaltı",
+    "il": "Antalya",
+    "posta_kodu": "07700",
+    "plus_code": "VJCH+47 Konyaaltı, Antalya",
+    "koordinatlar": {
+      "enlem": 36.8703419,
+      "boylam": 30.6281994
+    },
+    "google_maps_url": "https://www.google.com/maps/place/Ella+Estetik+Ve+G%C3%BCzellik/@36.8703419,30.6281994,17z/data=!3m1!4b1!4m6!3m5!1s0x14c391652edb708b:0x9d1f75a00a75b3c7!8m2!3d36.8703419!4d30.6281994!16s%2Fg%2F11s3jxx422",
+    "yol_tarifi_url": "https://www.google.com/maps/dir/?api=1&destination=36.8703419,30.6281994"
+  },
+  "puan_ve_yorumlar": {
+    "puan": 4.9,
+    "maks_puan": 5.0,
+    "toplam_yorum": 85,
+    "kaynak": "Google Haritalar",
+    "yorum_metinleri_kopyalandi_mi": false
+  },
+  "calisma_saatleri": {
+    "Pazartesi": "10:00 - 18:30",
+    "Salı": "10:00 - 18:30",
+    "Çarşamba": "10:00 - 18:30",
+    "Perşembe": "10:00 - 19:00",
+    "Cuma": "10:00 - 19:00",
+    "Cumartesi": "10:00 - 18:30",
+    "Pazar": "Kapalı"
+  },
+  "hizmetler": [
+    {
+      "id": "lazer-epilasyon",
+      "baslik": "Lazer Epilasyon",
+      "kisa_aciklama": "CE onaylı orijinal diode buz lazer teknolojisi ile 4 mevsim acısız, hızlı ve kalıcı çözümler.",
+      "detay": "CE onaylı orijinal diode buz lazer ile acısız, konforlu ve istenmeyen tüylerin kalıcı olarak giderilmesine yardımcı olan güvenilir teknoloji. Ücretsiz deneme seansı sunulmaktadır.",
+      "ikon": "sparkles",
+      "gorsel": "assets/images/lazer-epilasyon-banner.webp"
+    },
+    {
+      "id": "cilt-bakimi",
+      "baslik": "Medikal Cilt Bakımı & Peeling",
+      "kisa_aciklama": "Hydrafacial, karbon peeling, yosun peeling ve anti-aging bakım protokolleri ile ışıltılı bir cilt.",
+      "detay": "Salonumuzda hydrafacial, karbon peeling, medikal bakım, yosun peeling, LED fototerapi, anti-aging ve leke bakımları profesyonel dermokozmetik ürünlerle uygulanmaktadır.",
+      "ikon": "sparkles",
+      "gorsel": "assets/images/cilt-bakimi-karbon-peeling.webp"
+    },
+    {
+      "id": "protez-tirnak",
+      "baslik": "Protez Tırnak & Nail Art",
+      "kisa_aciklama": "Manikür, pedikür, jel tırnak ve kalıcı oje ile zarif, bakımlı ve dayanıklı eller.",
+      "detay": "Kişiye özel renk ve desen seçenekleri, medikal manikür/pedikür, tırnak güçlendirme ve son trend nail art tasarımları.",
+      "ikon": "hand",
+      "gorsel": "assets/images/protez-tirnak-nailart.webp"
+    },
+    {
+      "id": "ipek-kirpik-kas",
+      "baslik": "İpek Kirpik & Kaş Laminasyonu",
+      "kisa_aciklama": "Bakışlarınıza derinlik katan hafif, dökülmeyen ipek kirpik ve kusursuz kaş laminasyonu.",
+      "detay": "Göz yapınıza uygun uzunluk ve kıvrımda doğal veya hacimli ipek kirpik uygulamaları; kaş formunu belirginleştiren laminasyon ve bakım işlemleri.",
+      "ikon": "eye",
+      "gorsel": "assets/images/ipek-kirpik-kas-laminasyon.webp"
+    },
+    {
+      "id": "sac-simulasyonu",
+      "baslik": "Saç Simülasyonu",
+      "kisa_aciklama": "Doğal görünümlü mikropigmentasyon tekniği ile saç kaybını telafi eden kalıcı çözüm.",
+      "detay": "İleri mikropigmentasyon teknolojisiyle saç kökü efekti verilerek seyrelmiş alanlarda dolgun ve doğal bir görünüm sağlanır.",
+      "ikon": "user",
+      "gorsel": "assets/images/sac-simulasyonu.webp"
+    },
+    {
+      "id": "bolgesel-incelme",
+      "baslik": "Bölgesel İncelme & Sıkılaşma",
+      "kisa_aciklama": "İnatçı yağ dokularına yönelik etkili cihazlı uygulamalarla hayalinizdeki forma kavuşun.",
+      "detay": "Vücut hatlarını belirginleştiren, selülit görünümünü azaltan ve dokuyu sıkılaştıran profesyonel bölgesel incelme programları.",
+      "ikon": "body",
+      "gorsel": "assets/images/cilt-bakimi-hydrafacial.webp"
+    },
+    {
+      "id": "kas-silme",
+      "baslik": "Kaş Silme & Düzeltme",
+      "kisa_aciklama": "Hatalı yapılmış, grileşmiş veya kızıla dönmüş kalıcı makyaj işlemlerini güvenli silme.",
+      "detay": "Dokuya zarar vermeden eski, renk değiştirmiş veya istenmeyen kaş kontürlerinin özel solüsyon ve tekniklerle silinmesi.",
+      "ikon": "refresh",
+      "gorsel": "assets/images/cilt-bakimi-goz-terapi.webp"
+    }
+  ],
+  "indirilen_medyalar": {
+    "gorseller": [
+      {
+        "dosya": "assets/images/salon-ic-mekan.webp",
+        "aciklama": "Ella Estetik salon iç mekanı, altın sütunlar ve aynalar",
+        "kategori": "salon",
+        "etiket": "İç Mekan"
+      },
+      {
+        "dosya": "assets/images/cilt-bakimi-karbon-peeling.webp",
+        "aciklama": "Karbon peeling medikal cilt bakımı uygulaması",
+        "kategori": "cilt",
+        "etiket": "Cilt Bakımı"
+      },
+      {
+        "dosya": "assets/images/cilt-bakimi-led-terapi.webp",
+        "aciklama": "Casmara kozmetik & LED ışık terapi maskesi",
+        "kategori": "cilt",
+        "etiket": "Fototerapi"
+      },
+      {
+        "dosya": "assets/images/protez-tirnak-nailart.webp",
+        "aciklama": "Özel tasarım pembe ve altın yaldızlı nail art",
+        "kategori": "tirnak",
+        "etiket": "Nail Art"
+      },
+      {
+        "dosya": "assets/images/protez-tirnak-mavi.webp",
+        "aciklama": "Bebek mavisi kalıcı oje ve protez tırnak tasarımı",
+        "kategori": "tirnak",
+        "etiket": "Protez Tırnak"
+      },
+      {
+        "dosya": "assets/images/protez-tirnak-kirmizi.webp",
+        "aciklama": "Kırmızı simli lüks protez tırnak tasarımı",
+        "kategori": "tirnak",
+        "etiket": "Kalıcı Oje"
+      },
+      {
+        "dosya": "assets/images/ipek-kirpik-kas-laminasyon.webp",
+        "aciklama": "İpek kirpik lifting ve kaş laminasyon uygulaması",
+        "kategori": "kirpik",
+        "etiket": "İpek Kirpik"
+      },
+      {
+        "dosya": "assets/images/ipek-kirpik-uygulama.webp",
+        "aciklama": "Hacimli ipek kirpik yakından görünüm",
+        "kategori": "kirpik",
+        "etiket": "Kirpik Lifting"
+      },
+      {
+        "dosya": "assets/images/sac-simulasyonu.webp",
+        "aciklama": "Ella Estetik saç simülasyonu öncesi ve sonrası",
+        "kategori": "sac",
+        "etiket": "Saç Simülasyonu"
+      },
+      {
+        "dosya": "assets/images/cilt-bakimi-goz-terapi.webp",
+        "aciklama": "Cilt bakımı ve göz çevresi terapi cihazı",
+        "kategori": "cilt",
+        "etiket": "Göz Terapisi"
+      }
+    ],
+    "videolar": [
+      {
+        "dosya": "assets/videos/cilt-bakimi-uygulama.mp4",
+        "baslik": "Cilt Bakımı & Terapi Uygulaması",
+        "aciklama": "Salonda gerçekleştirilen profesyonel cilt bakımı ve terapi süreci"
+      },
+      {
+        "dosya": "assets/videos/salon-lazer-uygulama.mp4",
+        "baslik": "Salon & Lazer Epilasyon Deneyimi",
+        "aciklama": "Modern salon ortamında konforlu lazer epilasyon ve estetik hizmetleri"
+      }
+    ]
+  },
+  "bulunamayan_ve_eksik_bilgiler": [
+    {
+      "alan": "Vektörel Kurumsal Logo",
+      "durum": "BULUNAMADI",
+      "yapilan": "Google Fonts (Playfair Display) ile tipografik lüks logo tasarlandı. Kullanıcıdan şeffaf PNG / SVG logo dosyası talep edildi."
+    },
+    {
+      "alan": "E-posta Adresi",
+      "durum": "BULUNAMADI",
+      "yapilan": "İşletmenin halka açık e-posta adresi bulunamadı. Placeholder olarak bırakıldı."
+    },
+    {
+      "alan": "Hizmet Fiyat Listesi",
+      "durum": "BULUNAMADI",
+      "yapilan": "Fiyatlar sitede veya Maps'te yazmıyor. Butonlar WhatsApp üzerinden doğrudan fiyat ve randevu sormaya yönlendirildi."
+    },
+    {
+      "alan": "Sabit Telefon Numarası",
+      "durum": "YALNIZCA CEP / WHATSAPP BULUNDU",
+      "yapilan": "0543 349 49 80 hem arama hem de WhatsApp randevu hattı olarak tanımlandı."
+    }
+  ]
+}
